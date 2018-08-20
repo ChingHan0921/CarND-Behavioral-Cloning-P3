@@ -40,7 +40,7 @@ The goals / steps of this project are the following:
 Result
 ---
 **Click image below for video**
-[![IMAGE ALT TEXT](./images/cover.PNG)](https://youtu.be/Fsk3lDpV1GQ)
+[![IMAGE ALT TEXT](./images/cover.png)](https://youtu.be/Fsk3lDpV1GQ)
 
 ### Dependencies
 This lab requires:
